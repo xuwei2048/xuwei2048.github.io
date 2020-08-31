@@ -1,5 +1,5 @@
 while true
 do
 	sh upload.sh
-	sleep 5
+	sleep 60
 done
